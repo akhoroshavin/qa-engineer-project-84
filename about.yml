@@ -1,15 +1,16 @@
 ---
-name: Ilona Maskova 
+name: Anton Khoroshavin 
 job: QA Engineer
 level: junior
-email: ilona@hexlet.io
+email: aakhoroshavin96@gmail.com
 description: |
-  Этот текст — описание в свободной форме. Здесь можно рассказать пару интересных фактов про себя.
+  Adore science and arts // Eager for testing something new  
 
-  Текст можно написать в несколько абзацев
-skills: # Список навыков в виде списка, можете написать сюда что-то свое
+skills: 
   - Функциональное тестирование
   - Написание багрепортов
-  - Linux
-  - Слепая печать
-  - Английский язык C1
+  - Написание тестовой документации
+  - HTML 
+  - Python
+  - Английский язык Advanced
+  - Китайский язык B1 
