@@ -11,7 +11,7 @@ test-cases:
       Проверка верстки с мобильного устройства
     status: pass
 
-   - summary: |
+  - summary: |
       Проверка адаптивоности кнопки Add to cart
     status: fail
 
